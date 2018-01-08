@@ -314,7 +314,7 @@ button:after {
   opacity:0.0;
   position:absolute;
   top:0;
-  width:100%;
+  width:86vh;
   height:100%;
   z-index:6;
 }
