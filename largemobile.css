@@ -43,7 +43,7 @@ button:after {
 
 .photogallery{
   white-space:nowrap;
-  height:100%;
+  height:92vh;
   width:100%;
   overflow:hidden;
   display:inline-block;
@@ -315,7 +315,7 @@ button:after {
   position:absolute;
   top:0;
   width:100%;
-  height:108%;
+  height:100vh;
   z-index:6;
 }
 
