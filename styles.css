@@ -40,7 +40,7 @@ button:after {
 
 .photogallery{
   white-space:nowrap;
-  height:90vh;
+  height:85vh;
   width:100%;
   overflow:hidden;
   display:inline-block;
