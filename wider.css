@@ -212,7 +212,7 @@ button:after {
   color:white;
   font-weight:bold;
   z-index:20;
-  font-size:24px;
+  font-size:16px;
   transition:background 0.5s ease-out;
 }
 
@@ -261,7 +261,7 @@ button:after {
   word-wrap:break-word;
   width:100%;
   height:auto;
-  font-size:24px;
+  font-size:16px;
 }
 
 #body2{
@@ -269,7 +269,7 @@ button:after {
   word-wrap:break-word;
   width:100%;
   height:auto;
-  font-size:24px;
+  font-size:16px;
 }
 
 #body3{
@@ -277,7 +277,7 @@ button:after {
   word-wrap:break-word;
   width:100%;
   height:auto;
-  font-size:24px;
+  font-size:16px;
 }
 
 .header {
@@ -403,7 +403,7 @@ div.last{
 }
 
 .header1{
-  font-size:50px;
+  font-size:30px;
   text-align:center;
 }
 
@@ -494,7 +494,7 @@ div.last{
   border:0;
   width:20%;
   height:100%;
-  font-size:32px;
+  font-size:18px;
   border-bottom:2px solid #353535;
   display:inline-block;
   float:left;
