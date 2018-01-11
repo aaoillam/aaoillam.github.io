@@ -376,6 +376,7 @@ button:after {
     display:inline-block;
     height:auto;
     z-index:6;
+    position:absolute;
 }
 
 div.last{
@@ -400,7 +401,6 @@ div.last{
 .header1{
   font-size:30px;
   text-align:center;
-  top:1000px;
 }
 
 #header1{
