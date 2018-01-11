@@ -251,6 +251,7 @@ button:after {
 
 .body1{
   overflow:hidden;
+  z-index:6;
 }
 
 #body1{
