@@ -261,6 +261,7 @@ button:after {
 
 #body1{
   display:inline-block;
+  position:relative;
   word-wrap:break-word;
   width:100%;
   height:auto;
@@ -270,6 +271,7 @@ button:after {
 #body2{
   display:inline-block;
   word-wrap:break-word;
+  position:relative;
   width:100%;
   height:auto;
   font-size:24px;
@@ -278,6 +280,7 @@ button:after {
 #body3{
   display:inline-block;
   word-wrap:break-word;
+  position:relative;
   width:100%;
   height:auto;
   font-size:24px;
