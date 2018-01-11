@@ -264,16 +264,27 @@ button:after {
 }
 
 #body1{
-  display:inline-block;
-  position:relative;
-  word-wrap:break-word;
-  width:100%;
-  height:auto;
-  font-size:24px;
   margin-top:44px;
 }
 
 #body2{
+  margin-top:44px;
+}
+
+#body3{
+  margin-top:44px;
+}
+
+#span1{
+  display:inline-block;
+  position:relative;
+  word-wrap:break-word;
+  width:100%;
+  height:auto;
+  font-size:24px;
+}
+
+#span2{
   display:inline-block;
   word-wrap:break-word;
   position:relative;
@@ -282,7 +293,7 @@ button:after {
   font-size:24px;
 }
 
-#body3{
+#span3{
   display:inline-block;
   word-wrap:break-word;
   position:relative;
