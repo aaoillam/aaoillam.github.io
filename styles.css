@@ -258,7 +258,7 @@ button:after {
   word-wrap:break-word;
   width:100%;
   height:auto;
-  top:100%;
+  top:10vh;
 }
 
 #body2{
