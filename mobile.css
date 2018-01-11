@@ -261,36 +261,7 @@ button:after {
 
 .body1{
   overflow:hidden;
-}
-
-#textbody1{
-  margin-top:44px;
-  display:inline-block;
-  position:relative;
-  word-wrap:break-word;
-  width:100%;
-  height:auto;
-  font-size:24px;
-}
-
-#textbody2{
-  margin-top:44px;
-  display:inline-block;
-  position:relative;
-  word-wrap:break-word;
-  width:100%;
-  height:auto;
-  font-size:24px;
-}
-
-#textbody3{
-  margin-top:44px;
-  display:inline-block;
-  position:relative;
-  word-wrap:break-word;
-  width:100%;
-  height:auto;
-  font-size:24px;
+  padding-top:44px;
 }
 
 #body1{
