@@ -263,37 +263,37 @@ button:after {
   overflow:hidden;
 }
 
-#body1{
+#textbody1{
   margin-top:44px;
+}
+
+#textbody2{
+  margin-top:44px;
+}
+
+#textbody3{
+  margin-top:44px;
+}
+
+#body1{
+  display:inline-block;
+  position:relative;
+  word-wrap:break-word;
+  width:100%;
+  height:auto;
+  font-size:24px;
 }
 
 #body2{
-  margin-top:44px;
+  display:inline-block;
+  word-wrap:break-word;
+  position:relative;
+  width:100%;
+  height:auto;
+  font-size:24px;
 }
 
 #body3{
-  margin-top:44px;
-}
-
-#span1{
-  display:inline-block;
-  position:relative;
-  word-wrap:break-word;
-  width:100%;
-  height:auto;
-  font-size:24px;
-}
-
-#span2{
-  display:inline-block;
-  word-wrap:break-word;
-  position:relative;
-  width:100%;
-  height:auto;
-  font-size:24px;
-}
-
-#span3{
   display:inline-block;
   word-wrap:break-word;
   position:relative;
