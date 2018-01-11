@@ -312,7 +312,8 @@ button:after {
 
 #text1{
   border-top:0;
-  margin-top:100px;
+  margin-top:0;
+  top:3%;
 }
 
 #text3{
