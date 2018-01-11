@@ -84,7 +84,7 @@ button:after {
 .largecircle{
   border-radius:100%;
   border:2px solid black;
-  width:15%;
+  width:30%;
   height:35vh;
   margin:0;
   display:inline-block;
@@ -167,7 +167,7 @@ button:after {
 .body {
   margin:0;
   padding:0;
-  background-color:#3CB2D0;
+  background-color:white;
   height:auto;
 }
 
@@ -191,9 +191,8 @@ button:after {
 }
 
 .text{
-    width:30%;
-    margin-left:35%;
-    margin-right:35%;
+    width:55%;
+    margin-left:22.5%;
     margin-top:2%;
     margin-bottom:0%;
     padding-left:3%;
@@ -201,7 +200,7 @@ button:after {
     padding-top:1%;
     padding-bottom:0%;
     border-top:2px solid white;
-    color:white;
+    color:black;
     overflow:auto;
     display:inline-block;
     height:auto;
@@ -228,6 +227,12 @@ div.last{
 
 .header1{
   font-size:30px;
+  text-align:center;
+  border:0;
+  border-bottom:2px solid #3CB2D0;
+  border-top:2px solid #3CB2D0;
+  padding:2%;
+  margin-bottom:2%
 }
 
 #header1{
@@ -264,14 +269,14 @@ div.last{
 }
 
 .dropdownbutton{
-  background-color:white;
-  color:#3CB2D0;
+  background-color:black;
+  color:white;
   transition:background 0.5s ease-out;
   border:0;
   width:16.66%;
   height:100%;
   font-size:18px;
-  border-bottom:2px solid #353535;
+  border-bottom:2px solid black;
   display:inline-block;
   float:left;
   padding:0;
