@@ -40,7 +40,7 @@ button:after {
 
 .photogallery{
   white-space:nowrap;
-  height:92vh;
+  height:90vh;
   width:100%;
   overflow:hidden;
   display:inline-block;
@@ -375,8 +375,6 @@ button:after {
     overflow:hidden;
     display:inline-block;
     height:auto;
-    z-index:6;
-    position:absolute;
 }
 
 div.last{
