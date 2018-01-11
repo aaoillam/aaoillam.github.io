@@ -265,14 +265,32 @@ button:after {
 
 #textbody1{
   margin-top:44px;
+  display:inline-block;
+  position:relative;
+  word-wrap:break-word;
+  width:100%;
+  height:auto;
+  font-size:24px;
 }
 
 #textbody2{
   margin-top:44px;
+  display:inline-block;
+  position:relative;
+  word-wrap:break-word;
+  width:100%;
+  height:auto;
+  font-size:24px;
 }
 
 #textbody3{
   margin-top:44px;
+  display:inline-block;
+  position:relative;
+  word-wrap:break-word;
+  width:100%;
+  height:auto;
+  font-size:24px;
 }
 
 #body1{
