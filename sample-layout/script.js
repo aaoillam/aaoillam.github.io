@@ -52,107 +52,107 @@ function other(){
 }
 
 function backToMenu(){
-  window.location.href = "../../y11 project/index.htm";
+  window.location.href = "../../../index.htm";
 }
 
 function kitsOne(){
-  window.location.href = "../../y11 project/kits1/index.htm";
+  window.location.href = "../../../kits1/index.htm";
 }
 
 function kitsTwo(){
-  window.location.href = "../../y11 project/kits2/index.htm";
+  window.location.href = "../../../kits2/index.htm";
 }
 
 function kitsThree(){
-  window.location.href = "../../y11 project/kits3/index.htm";
+  window.location.href = "../../../kits3/index.htm";
 }
 
 function kitsFour(){
-  window.location.href = "../../y11 project/kits4/index.htm";
+  window.location.href = "../../../kits4/index.htm";
 }
 
 function kitsFive(){
-  window.location.href = "../../y11 project/kits5/index.htm";
+  window.location.href = "../../../kits5/index.htm";
 }
 
 function oilsOne(){
-  window.location.href = "../../y11 project/oils1/index.htm";
+  window.location.href = "../../../oils1/index.htm";
 }
 
 function oilsTwo(){
-  window.location.href = "../../y11 project/oils2/index.htm";
+  window.location.href = "../../../oils2/index.htm";
 }
 
 function oilsThree(){
-  window.location.href = "../../y11 project/oils3/index.htm";
+  window.location.href = "../../../oils3/index.htm";
 }
 
 function oilsFour(){
-  window.location.href = "../../y11 project/oils4/index.htm";
+  window.location.href = "../../../oils4/index.htm";
 }
 
 function oilsFive(){
-  window.location.href = "../../y11 project/oils5/index.htm";
+  window.location.href = "../../../oils5/index.htm";
 }
 
 
 function promotionsOne(){
-  window.location.href = "../../y11 project/promotions1/index.htm";
+  window.location.href = "../../../promotions1/index.htm";
 }
 
 function promotionsTwo(){
-  window.location.href = "../../y11 project/promotions2/index.htm";
+  window.location.href = "../../../promotions2/index.htm";
 }
 
 function promotionsThree(){
-  window.location.href = "../../y11 project/promotions3/index.htm";
+  window.location.href = "../../../promotions3/index.htm";
 }
 
 function promotionsFour(){
-  window.location.href = "../../y11 project/promotions4/index.htm";
+  window.location.href = "../../../promotions4/index.htm";
 }
 
 function promotionsFive(){
-  window.location.href = "../../y11 project/promotions5/index.htm";
+  window.location.href = "../../../promotions5/index.htm";
 }
 
 
 function accessoriesOne(){
-  window.location.href = "../../y11 project/accessories1/index.htm";
+  window.location.href = "../../../accessories1/index.htm";
 }
 
 function accessoriesTwo(){
-  window.location.href = "../../y11 project/accessories2/index.htm";
+  window.location.href = "../../../accessories2/index.htm";
 }
 
 function accessoriesThree(){
-  window.location.href = "../../y11 project/accessories3/index.htm";
+  window.location.href = "../../../accessories3/index.htm";
 }
 
 function accessoriesFour(){
-  window.location.href = "../../y11 project/accessories4/index.htm";
+  window.location.href = "../../../accessories4/index.htm";
 }
 
 function accessoriesFive(){
-  window.location.href = "../../y11 project/accessories5/index.htm";
+  window.location.href = "../../../accessories5/index.htm";
 }
 
 function otherOne(){
-  window.location.href = "../../y11 project/others1/index.htm";
+  window.location.href = "../../../others1/index.htm";
 }
 
 function otherTwo(){
-  window.location.href = "../../y11 project/others2/index.htm";
+  window.location.href = "../../../others2/index.htm";
 }
 
 function otherThree(){
-  window.location.href = "../../y11 project/others3/index.htm";
+  window.location.href = "../../../others3/index.htm";
 }
 
 function otherFour(){
-  window.location.href = "../../y11 project/others4/index.htm";
+  window.location.href = "../../../others4/index.htm";
 }
 
 function otherFive(){
-  window.location.href = "../../y11 project/others5/index.htm";
+  window.location.href = "../../../others5/index.htm";
 }

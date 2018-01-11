@@ -50,7 +50,7 @@ button:after {
 }
 
 #largecircle{
-  background-image:url("../../y11 project/image.jpg");
+  background-image:url("../../../image.jpg");
 }
 
 .right2{
@@ -84,8 +84,8 @@ button:after {
 .largecircle{
   border-radius:100%;
   border:2px solid black;
-  width:25%;
-  height:45vh;
+  width:15%;
+  height:35vh;
   margin:0;
   display:inline-block;
   float:right;
@@ -191,9 +191,9 @@ button:after {
 }
 
 .text{
-    width:90%;
-    margin-left:2%;
-    margin-right:2%;
+    width:30%;
+    margin-left:35%;
+    margin-right:35%;
     margin-top:2%;
     margin-bottom:0%;
     padding-left:3%;
