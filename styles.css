@@ -7,6 +7,7 @@ html,body {
   width:100%;
   font-family: 'Roboto Slab', serif;
   display:inline-block;
+  background-color:#3CB2D0;
 }
 
 head {
