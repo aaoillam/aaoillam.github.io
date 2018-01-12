@@ -276,8 +276,8 @@ div.last{
   width:16.66%;
   height:100%;
   font-size:18px;
-  border-bottom:2px solid green;
-  border-right:2px solid green;
+  border-bottom:2px solid #3CB2D0;
+  border-right:2px solid #3CB2D0;
   display:inline-block;
   float:left;
   padding:0;
