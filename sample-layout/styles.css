@@ -94,7 +94,8 @@ button:after {
 
 .dropdownmenus{
   background-color:rgba(0,0,0,0);
-  width:100%;
+  width:55%;
+  left:22.5%;
   display:inline-block;
   position:absolute;
   margin:0;
@@ -102,7 +103,7 @@ button:after {
   padding:0;
   height:auto;
   z-index:20;
-  margin-top:8vh;
+  margin-top:12vh;
 }
 
 .dropdowncontent {
@@ -144,12 +145,19 @@ button:after {
 }
 
 .dropdownmenu {
+  top:2vh;
   width:55%;
+  left:22.5%;
   height:8vh;
   position:absolute;
   background-size:cover;
   opacity:1;
-  top:0px;
+  padding:0;
+  padding-top:1%;
+  padding-bottom:1%;
+  border:0;
+  border-top:2px solid #3CB2D0;
+  border-bottom:2px solid #3CB2D0;
 }
 
 .bottom{
@@ -168,6 +176,7 @@ button:after {
   margin:0;
   padding:0;
   background-color:white;
+  margin-top:3%;
   height:auto;
 }
 
@@ -192,12 +201,12 @@ button:after {
 
 .text{
     width:55%;
-    margin-left:22.5%;
-    margin-top:2%;
+    margin-left:19.5%;
+    margin-top:0%;
     margin-bottom:0%;
     padding-left:3%;
     padding-right:3%;
-    padding-top:1%;
+    padding-top:0%;
     padding-bottom:0%;
     border-top:2px solid white;
     color:black;
@@ -230,7 +239,7 @@ div.last{
   text-align:center;
   border:0;
   border-bottom:2px solid #3CB2D0;
-  border-top:2px solid #3CB2D0;
+  margin:0;
   padding:2%;
   margin-bottom:2%
 }
@@ -269,12 +278,13 @@ div.last{
 }
 
 .dropdownbutton{
-  background-color:black;
-  color:white;
+  background-color:white;
+  color:black;
   transition:background 0.5s ease-out;
   border:0;
   width:16.66%;
-  height:100%;
+  top:10%;
+  height:80%;
   font-size:18px;
   border-bottom:2px solid #3CB2D0;
   border-right:2px solid #3CB2D0;
@@ -363,7 +373,7 @@ div.last{
 }
 
 #dropdownkits{
-  margin-left:0;
+  margin-left:0%;
   left:0px;
 }
 
@@ -373,17 +383,17 @@ div.last{
 }
 
 #dropdownaccessories{
-  margin-left:33.32%;
+  margin-left:33.333%;
   left:0px;
 }
 
 #dropdownpromotions{
-  margin-left:49.98%;
+  margin-left:49.999%;
   left:0px;
 }
 
 #dropdownother{
-  margin-left:66.64%;
+  margin-left:66.6666%;
   left:0px;
 }
 
