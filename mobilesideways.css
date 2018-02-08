@@ -4,7 +4,7 @@
 
 html{
   padding-bottom:44px;
-  background-color:#3CB2D0;
+  background-color:black;
 }
 
 html,body {
@@ -15,6 +15,10 @@ html,body {
   width:100%;
   font-family: 'Roboto Slab', serif;
   display:inline-block;
+}
+
+body {
+  background-color:#3CB2D0;
 }
 
 head {
