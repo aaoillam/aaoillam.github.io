@@ -86,7 +86,7 @@ button:after {
   position:absolute;
   border:0;
   padding:0;
-  width:1.5%;
+  width:5%;
   background-color:rgba(53,53,53,0.8);
   height:5%;
   color:white;
@@ -103,7 +103,7 @@ button:after {
   position:absolute;
   border:0;
   padding:0;
-  width:1.5%;
+  width:5%;
   top:50%;
   background-color:rgba(53,53,53,0.8);
   height:5%;
