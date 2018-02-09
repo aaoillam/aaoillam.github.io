@@ -7,14 +7,14 @@ var right = 0;
 var rightspam = 0;
 var menus = document.getElementById("dropdownmenus");
 var menu = document.getElementById("dropdownmenu");
-  $(window).scroll(function (event) {
-    var scroll = $(window).scrollTop();
-    var dropdownmenus = scroll + $("#kits").height();
-    console.log(scroll);
-    $("#dropdownmenus").css("margin-top","0px");
-    bottom.style.top = scroll + "px";
-    menus.style.top = dropdownmenus + "px";
-  });
+  // $(window).scroll(function (event) {
+  //   var scroll = $(window).scrollTop();
+  //   var dropdownmenus = scroll + $("#kits").height();
+  //   console.log(scroll);
+  //   $("#dropdownmenus").css("margin-top","0px");
+  //   bottom.style.top = scroll + "px";
+  //   menus.style.top = dropdownmenus + "px";
+  // });
 
 function kits(){
   $("#dropdownkits").toggleClass("show");

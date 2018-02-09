@@ -81,7 +81,7 @@ button:after {
   border-radius:100%;
   border:2px solid black;
   width:35%;
-  height:40vh;
+  height:35vh;
   margin:0;
   display:inline-block;
   float:right;
@@ -294,6 +294,7 @@ div.last{
   border-right:2px solid black;
   outline:0;
   font-weight:bold;
+  word-wrap:break-word;
 }
 
 .dropdownbutton:hover{
