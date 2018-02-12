@@ -172,6 +172,11 @@ button:after {
   background-repeat:no-repeat;
 }
 
+#kits{
+  margin-left:1%;
+  width:19%;
+}
+
 .dropdownmenus{
   background-color:rgba(0,0,0,0);
   width:100%;
