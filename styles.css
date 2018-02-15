@@ -8,6 +8,7 @@ html,body {
   width:100%;
   font-family: 'Roboto Slab', serif;
   display:inline-block;
+  background-color:#f2f5f9;
 }
 
 head {

@@ -20,7 +20,7 @@ $("#first").addClass("enlarge");
     $("#picture").css("z-index", 5);
     $("#picture2").css("z-index", 5);
     $("#photogallery").css("z-index", 5);
-    if (scroll < 1){
+    if (scroll < 100){
       $("#picture").css("z-index", 20);
       $("#picture2").css("z-index", 20);
       $("#photogallery").css("z-index", 20);
