@@ -9,6 +9,10 @@ html,body {
   word-wrap:break-word;
 }
 
+body{
+  width:90%;
+}
+
 head {
   margin: 0;
 	padding: 0;
@@ -82,7 +86,7 @@ button:after {
   border-radius:100%;
   border:2px solid black;
   width:40%;
-  height:15vh;
+  height:25vh;
   margin:0;
   display:inline-block;
   float:right;
@@ -91,8 +95,8 @@ button:after {
 
 .dropdownmenus{
   background-color:rgba(0,0,0,0);
-  width:55%;
-  left:22.5%;
+  width:100%;
+  left:0%;
   display:inline-block;
   position:absolute;
   margin:0;
@@ -143,8 +147,8 @@ button:after {
 
 .dropdownmenu {
   top:2vh;
-  width:55%;
-  left:22.5%;
+  width:100%;
+  left:0%;
   height:8vh;
   position:absolute;
   background-size:cover;
@@ -197,8 +201,8 @@ button:after {
 }
 
 .text{
-    width:55%;
-    margin-left:19.5%;
+    width:100%;
+    margin-left:0%;
     margin-top:0%;
     margin-bottom:0%;
     padding-left:3%;

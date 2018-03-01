@@ -25,8 +25,8 @@ $("#first").addClass("enlarge");
       $("#dropdownmenus").css("z-index", 5);
     }
     if (scroll < 1){
-      $("#dropdownmenu").css("z-index", 20);
-      $("#dropdownmenuns").css("z-index", 20);
+      $("#dropdownmenu").css("z-index", 25);
+      $("#dropdownmenus").css("z-index", 25);
     }
     if (scroll < 100){
       $("#picture").css("z-index", 20);

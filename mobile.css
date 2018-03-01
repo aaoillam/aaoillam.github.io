@@ -268,7 +268,7 @@ button:after {
   background-color:aliceblue;
   height:auto;
   width:100%;
-  margin-top:5vh
+  margin-top:8vh;
   margin-left:0%;
   padding-top:2.5%;
   border-right:1px solid #3a753a;
@@ -355,7 +355,7 @@ button:after {
   margin-top:1%;
   width:100%;
   left:0%;
-  height:105%;
+  height:108%;
   z-index:6;
 }
 
