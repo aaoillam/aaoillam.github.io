@@ -267,8 +267,8 @@ button:after {
   padding:0;
   background-color:aliceblue;
   height:auto;
-  width:70%;
-  margin-left:15%;
+  width:100%;
+  margin-left:0%;
   padding-top:2.5%;
   border-right:1px solid #3a753a;
   border-left:1px solid #3a753a;
