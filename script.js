@@ -20,6 +20,14 @@ $("#first").addClass("enlarge");
     $("#picture").css("z-index", 5);
     $("#picture2").css("z-index", 5);
     $("#photogallery").css("z-index", 5);
+    if (scroll > 1){
+      $("#dropdownmenu").css("z-index", 5);
+      $("#dropdownmenus").css("z-index", 5);
+    }
+    if (scroll < 1){
+      $("#dropdownmenu").css("z-index", 20);
+      $("#dropdownmenuns").css("z-index", 20);
+    }
     if (scroll < 100){
       $("#picture").css("z-index", 20);
       $("#picture2").css("z-index", 20);
