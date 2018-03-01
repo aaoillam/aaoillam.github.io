@@ -45,8 +45,8 @@ button:after {
 .photogallery{
   white-space:nowrap;
   height:80vh;
-  width:70%;
-  left:15%;
+  width:100%;
+  left:0%;
   overflow:hidden;
   display:inline-block;
   float:left;
@@ -232,8 +232,8 @@ button:after {
 }
 
 .dropdownmenu {
-  width:70%;
-  left:15%;
+  width:100%;
+  left:0%;
   height:12vh;
   position:absolute;
   background-size:cover;
