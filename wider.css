@@ -146,7 +146,7 @@ button:after {
   border-radius:100%;
   border:2px solid #3a753a;
   width:20%;
-  height:20vh;
+  height:25vh;
   margin:0;
   padding:0;
   margin-right:2%;
@@ -307,6 +307,12 @@ button:after {
   padding-top:2%;
   margin-top:2%;
   border-top:2px solid #3a753a;
+}
+
+.hometext{
+  width:75%;
+  margin-left:25%;
+  display:inline-block;
 }
 
 .header {
