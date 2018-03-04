@@ -80,6 +80,12 @@ button:after {
   background-image:url("image3.jpg");
 }
 
+.hometext{
+  width:65%;
+  float:right;
+  display:inline-block;
+}
+
 .right2{
   animation:right2 ease-in forwards 0.5s;
 }

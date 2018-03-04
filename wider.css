@@ -311,8 +311,8 @@ button:after {
 
 .hometext{
   width:75%;
-  margin-left:25%;
   display:inline-block;
+  float:right;
 }
 
 .header {
