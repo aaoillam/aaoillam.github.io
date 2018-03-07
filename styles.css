@@ -20,7 +20,7 @@ head {
 }
 
 button {
-  font-family:inherit;
+  font-family:inherit; 
   position:relative;
   overflow:hidden;
   outline:0;

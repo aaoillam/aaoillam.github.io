@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-  <div class="container"> 
+  <div class="container">
   <head>
   <meta charset="UTF-8">
   <div class="header">
@@ -13,54 +13,47 @@
     <link rel="stylesheet" media="only screen and (min-device-width:1400px) and (max-device-width:1599px)" type="text/css" href="wide.css">
     <link rel="stylesheet" media="only screen and (min-device-width:1600px)" type="text/css" href="wider.css">
     <title>Essential Oils</title>
-      <div class="dropdownmenu" id="dropdownmenu">
-        <span class="bottom" id="bottom">
-          <button class="dropdownbutton" id="kits" onclick="kits()">Kits</button>
-          <button class="dropdownbutton" id="oils" onclick="oils()">Oils</button>
-          <button class="dropdownbutton" id="accessories" onclick="accessories()">Accessories</button>
-          <button class="dropdownbutton" id="promotions" onclick="promotions()">Promotions</button>
-          <button class="dropdownbutton" id="other" onclick="other()">Other</button>
-          <button class="dropdownbutton" id="menu" onclick="backToMenu()">Back to Menu</button>
-        </span>
-      </div>
-    <div class="dropdownmenus" id="dropdownmenus">
-      &nbsp;
-      <div class="hide" id="dropdownkits">
-        <button class="dropdowncontentbutton" onclick="kitsOne()">q</button>
-        <button class="dropdowncontentbutton" onclick="kitsTwo()">w</button>
-        <button class="dropdowncontentbutton" onclick="kitsThree()">e</button>
-        <button class="dropdowncontentbutton" onclick="kitsFour()">r</button>
-        <button class="dropdowncontentbutton last" onclick="kitsFive()">t</button>
-      </div>
-      <div class="hide" id="dropdownoils">
-        <button class="dropdowncontentbutton" onclick="oilsOne()">y</button>
-        <button class="dropdowncontentbutton" onclick="oilsTwo()">u</button>
-        <button class="dropdowncontentbutton" onclick="oilsThree()">i</button>
-        <button class="dropdowncontentbutton" onclick="oilsFour()">o</button>
-        <button class="dropdowncontentbutton last" onclick="oilsFive()">p</button>
-      </div>
-      <div class="hide" id="dropdownaccessories">
-        <button class="dropdowncontentbutton" onclick="accessoriesOne()">a</button>
-        <button class="dropdowncontentbutton" onclick="accessoriesTwo()">s</button>
-        <button class="dropdowncontentbutton" onclick="accessoriesThree()">d</button>
-        <button class="dropdowncontentbutton" onclick="accessoriesFour()">f</button>
-        <button class="dropdowncontentbutton last" onclick="accessoriesFive()">g</button>
-      </div>
-      <div class="hide" id="dropdownpromotions">
-        <button class="dropdowncontentbutton" onclick="promotionsOne()">h</button>
-        <button class="dropdowncontentbutton" onclick="promotionsTwo()">j</button>
-        <button class="dropdowncontentbutton" onclick="promotionsThree()">k</button>
-        <button class="dropdowncontentbutton" onclick="promotionsFour()">l</button>
-        <button class="dropdowncontentbutton last" onclick="promotionsFive()">z</button>
-      </div>
-      <div class="hide" id="dropdownother">
-        <button class="dropdowncontentbutton" onclick="otherOne()">x</button>
-        <button class="dropdowncontentbutton" onclick="otherTwo()">c</button>
-        <button class="dropdowncontentbutton" onclick="otherThree()">v</button>
-        <button class="dropdowncontentbutton" onclick="otherFour()">b</button>
-        <button class="dropdowncontentbutton last" onclick="otherFive()">n</button>
-      </div>
+    <div class="dropdownmenu" id="dropdownmenu">
+      <span class="bottom" id="bottom">
+        <button class="dropdownbutton" id="kits" onclick="kits()">Kits</button>
+        <button class="dropdownbutton" id="oils" onclick="oils()">Collections</button>
+        <button class="dropdownbutton" id="accessories" onclick="accessories()">Diffusers</button>
+        <button class="dropdownbutton" id="promotions" onclick="promotions()">NingXia Red</button>
+        <button class="dropdownbutton" id="other" onclick="other()">Vitality</button>
+        <button class="dropdownbutton" id="menu" onclick="backToMenu()">Back to Menu</button>
+      </span>
     </div>
+  <div class="dropdownmenus" id="dropdownmenus">
+    &nbsp;
+    <div class="hide" id="dropdownkits">
+      <button class="dropdowncontentbutton" onclick="kitsOne()">Premium Starter Kit with Dewdrop Diffuser (HK)</button>
+      <button class="dropdowncontentbutton" onclick="kitsTwo()">Premium Starter Kit with NingXia</button>
+      <button class="dropdowncontentbutton last" onclick="kitsThree()">Basic Starter Kit</button>
+    </div>
+    <div class="hide" id="dropdownoils">
+      <button class="dropdowncontentbutton" onclick="oilsOne()">Everyday Oil Essential Collection</button>
+      <button class="dropdowncontentbutton" onclick="oilsTwo()">Feelings Kit - Essential Oils Collection</button>
+      <button class="dropdowncontentbutton" onclick="oilsThree()">Raindrop Technique Essential Oil Collection</button>
+      <button class="dropdowncontentbutton last" onclick="oilsFour()">Thieves Essential Rewards</button>
+  </div>
+    <div class="hide" id="dropdownaccessories">
+      <button class="dropdowncontentbutton" onclick="accessoriesOne()">Aroma Lux Diffuser</button>
+      <button class="dropdowncontentbutton" onclick="accessoriesTwo()">Desert Mist Diffuser</button>
+      <button class="dropdowncontentbutton last" onclick="accessoriesThree()">Home Diffuser - Dew Drop Design</button>
+    </div>
+    <div class="hide" id="dropdownpromotions">
+      <button class="dropdowncontentbutton" onclick="promotionsOne()">NingXia Red</button>
+      <button class="dropdowncontentbutton" onclick="promotionsTwo()">NingXia Red 60ml Singles</button>
+      <button class="dropdowncontentbutton" onclick="promotionsThree()">Ningxia Red Essential Rewards</button>
+      <button class="dropdowncontentbutton last" onclick="promotionsFour()">NingXia Zyng</button>
+    </div>
+    <div class="hide" id="dropdownother">
+      <button class="dropdowncontentbutton" onclick="otherOne()">Peppermint Vitality</button>
+      <button class="dropdowncontentbutton" onclick="otherTwo()">Frankinsense Vitality</button>
+      <button class="dropdowncontentbutton" onclick="otherThree()">Lavender Vitality</button>
+      <button class="dropdowncontentbutton last" onclick="otherFour()">Orange Vitality</button>
+    </div>
+  </div>
   </div>
   <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
   </head>
