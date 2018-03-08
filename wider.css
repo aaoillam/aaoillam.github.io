@@ -156,9 +156,10 @@ button:after {
   float:left;
 }
 
-#picture2{
+  #picture2{
   height:100%;
   width:100%;
+  background-size:100% 100%;
   background:url("b2.jpg") center center no-repeat;
   white-space:nowrap;
   z-index:20;
@@ -169,7 +170,6 @@ button:after {
   border:0;
   padding:0;
   position:relative;
-  background-size:cover;
   background-repeat:no-repeat;
 }
 
@@ -329,8 +329,8 @@ button:after {
 #picture {
   height:100%;
   width:100%;
+  background-size:100% 100%;
   background:url("b.jpg") center center no-repeat;
-  background-size:cover;
   z-index:20;
   white-space:nowrap;
   float:left;
