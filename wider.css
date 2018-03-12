@@ -159,7 +159,7 @@ button:after {
   #picture2{
   height:100%;
   width:100%;
-  background-size:100% 100%;
+  background-size:contain;
   background:url("b2.jpg") center center no-repeat;
   white-space:nowrap;
   z-index:20;
@@ -329,7 +329,7 @@ button:after {
 #picture {
   height:100%;
   width:100%;
-  background-size:100% 100%;
+  background-size:contain;
   background:url("b.jpg") center center no-repeat;
   z-index:20;
   white-space:nowrap;
