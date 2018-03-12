@@ -138,7 +138,7 @@ button:after {
   left:36%;
   float:left;
   z-index:100;
-  background-size:cover;
+  background-size:contain;
   background-repeat:no-repeat;
 }
 
@@ -169,7 +169,7 @@ button:after {
   border:0;
   padding:0;
   position:relative;
-  background-size:cover;
+  background-size:contain;
   background-repeat:no-repeat;
 }
 
@@ -324,7 +324,7 @@ button:after {
   height:100%;
   width:100%;
   background:url("b.jpg") center center no-repeat;
-  background-size:cover;
+  background-size:contain;
   z-index:20;
   white-space:nowrap;
   float:left;
