@@ -175,7 +175,7 @@ button:after {
   border:0;
   padding:0;
   position:relative;
-  background-size:100% 100%;
+  background-size:contain;
   background-repeat:no-repeat;
 }
 
@@ -330,7 +330,7 @@ button:after {
   height:100%;
   width:100%;
   background:url("b.jpg") center center no-repeat;
-  background-size:100% 100%;
+  background-size:contain;
   background-repeat:no-repeat;
   z-index:20;
   white-space:nowrap;
