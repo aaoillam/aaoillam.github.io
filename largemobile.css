@@ -146,7 +146,7 @@ button:after {
   left:33%;
   float:left;
   z-index:100;
-  background-size:cover;
+  background-size:contain;
   background-repeat:no-repeat;
 }
 
