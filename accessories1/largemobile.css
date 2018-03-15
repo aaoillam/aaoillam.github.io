@@ -91,6 +91,8 @@ button:after {
   margin:0;
   display:inline-block;
   float:right;
+  background-size:contain;
+  background-repeat:no-repeat;
 }
 
 
