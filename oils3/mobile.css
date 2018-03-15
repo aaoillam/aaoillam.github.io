@@ -9,7 +9,7 @@ html,body {
 }
 
 body{
-  width:90%;  
+  width:90%;
 }
 
 head {
@@ -50,7 +50,7 @@ button:after {
 }
 
 #largecircle{
-  background-image:url("../../../image.jpg");
+  background-image:url("image.jpg");
 }
 
 .right2{
@@ -89,6 +89,8 @@ button:after {
   margin:0;
   display:inline-block;
   float:right;
+  background-size:contain;
+  background-repeat:no-repeat;
 }
 
 
